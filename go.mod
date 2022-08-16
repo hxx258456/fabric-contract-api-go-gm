@@ -5,9 +5,9 @@ go 1.17
 require (
 	github.com/go-openapi/spec v0.20.6
 	github.com/gobuffalo/packr v1.30.1
-	github.com/hxx258456/ccgo v0.0.0-20220815135058-aea1800993ba
-	github.com/hxx258456/fabric-chaincode-go-gm v0.0.0-20220815143232-1200cd9c846c
-	github.com/hxx258456/fabric-protos-go-gm v0.0.0-20220815141714-2836819001d3
+	github.com/hxx258456/ccgo v0.0.1
+	github.com/hxx258456/fabric-chaincode-go-gm v0.0.1
+	github.com/hxx258456/fabric-protos-go-gm v0.0.1
 	github.com/stretchr/testify v1.8.0
 	github.com/xeipuuv/gojsonschema v1.2.0
 )
