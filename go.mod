@@ -5,14 +5,15 @@ go 1.17
 require (
 	github.com/go-openapi/spec v0.20.6
 	github.com/gobuffalo/packr v1.30.1
-	github.com/hxx258456/ccgo v0.0.1
-	github.com/hxx258456/fabric-chaincode-go-gm v0.0.1
-	github.com/hxx258456/fabric-protos-go-gm v0.0.1
+	github.com/hxx258456/ccgo v0.0.3
+	github.com/hxx258456/fabric-chaincode-go-gm v0.0.2
+	github.com/hxx258456/fabric-protos-go-gm v0.0.2
 	github.com/stretchr/testify v1.8.0
 	github.com/xeipuuv/gojsonschema v1.2.0
 )
 
 require (
+	gitee.com/zhaochuninhefei/zcgolog v0.0.14 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/go-openapi/jsonpointer v0.19.5 // indirect
 	github.com/go-openapi/jsonreference v0.20.0 // indirect
@@ -23,11 +24,8 @@ require (
 	github.com/joho/godotenv v1.3.0 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/mailru/easyjson v0.7.6 // indirect
-	github.com/mattn/go-colorable v0.1.12 // indirect
-	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/rogpeppe/go-internal v1.3.0 // indirect
-	github.com/rs/zerolog v1.27.0 // indirect
 	github.com/xeipuuv/gojsonpointer v0.0.0-20180127040702-4e3ac2762d5f // indirect
 	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415 // indirect
 	golang.org/x/crypto v0.0.0-20220214200702-86341886e292 // indirect
